@@ -7,6 +7,15 @@
     <identifier>KCB</identifier>
     <lastModifiedTimestamp>1747906937526</lastModifiedTimestamp>
     <versionCount>0</versionCount>
+    <flowEncodingVersion>1.0</flowEncodingVersion>
+  <latest>false</latest>
+  <parameterContexts/>
+  <parameterProviders/>
+  <snapshotMetadata>
+    <author>admin</author>
+    <flowIdentifier>KCB</flowIdentifier>
+    <timestamp>0</timestamp>
+  </snapshotMetadata>
     <snippet>
         <connections>
             <id>db4d09ba-c483-34e1-0000-000000000000</id>
