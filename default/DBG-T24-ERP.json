@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1747909533742,
+    "description" : "DBG T24-> ERP",
+    "identifier" : "DBG-T24-ERP",
+    "lastModifiedTimestamp" : 1747909533742,
+    "name" : "DBG T24-> ERP",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
